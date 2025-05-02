@@ -69,4 +69,4 @@ python main.py
 
 ## 🧑‍💻 Created by
 Harsh Arora  
-[LinkedIn](https://www.linkedin.com/) | [GitHub](https://github.com/)
+[LinkedIn](https://www.linkedin.com/in/harsh-19-arora/) | [GitHub](https://github.com/harsh-21-git)
